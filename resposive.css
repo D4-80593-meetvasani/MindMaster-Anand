@@ -1,0 +1,61 @@
+@media screen and (max-width:1184px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    h1{
+        font-size: 30px;
+    }
+    section{
+        display: block;
+        margin: 0;
+        padding: 0;
+    }
+    .og{
+        margin: 0;
+        padding: 0;
+        height: 200px;
+        width: 350px;
+    }
+    .vish{
+        font-size: 15px;
+    }
+    button{
+        font-size: 15px;
+    }
+
+    .intro{
+        font-size: 15px;
+    }
+    .twitter-common{
+        size: 10px;
+    }
+    .biotitle{
+        font-size: 15px;
+        padding: 15px;
+        margin: 0;
+    }
+    .m{
+        font-size: 13px;
+        max-height: 100px;
+        overflow: scroll;
+    }
+    .t{
+        margin: 0;
+        font-size: 10px;
+        height: auto;
+     
+    }
+    .video{
+        font-size: 14px;
+    }
+    footer{
+        font-size: 10px;
+    }
+
+    .samay{
+        width:"426";
+        height:"240";
+    }
+    
+}
